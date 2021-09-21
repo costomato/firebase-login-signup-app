@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login SignUp</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="log_in">Log In</string>
+    <string name="or">- OR -</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_back">Welcome,</string>
+    <string name="log_out">Log out</string>
+    <string name="user">User</string>
+    <string name="sample_login">Sample Login</string>
+    <string name="reset_password">Reset password</string>
+</resources>
